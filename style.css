@@ -58,7 +58,3 @@ h1 + h1 {
 #cover img:hover {
   opacity: 0.5;
 }
-
-#lyrics {
-  background-color: #455a75;
-}
